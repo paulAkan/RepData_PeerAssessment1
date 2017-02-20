@@ -1,5 +1,8 @@
 #This is a report as part of the reproducible research report
 
+```r
+opts_chunk$set(echo = TRUE)
+```
 Loading and preprocessing the data
 
 ##1. Load the data (i.e. read.csv())
